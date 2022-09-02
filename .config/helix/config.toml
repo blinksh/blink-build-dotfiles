@@ -1,0 +1,10 @@
+theme = "monokai_pro_machine"
+
+[editor]
+true-color = true
+
+[editor.indent-guides]
+render = true
+character = "╎"
+
+
