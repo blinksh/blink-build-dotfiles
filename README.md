@@ -1,6 +1,3 @@
-# Welcome
+# Attention
 
-Manage your dot files with `config` command.
-(make sure you have `git` installed in your container)
-
-More instructions...
+Use https://github.com/blinksh/build-dotfiles instead.
